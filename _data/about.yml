@@ -1,20 +1,20 @@
-name:          "Anuj Garg"
+name:          "Code Comm"
 summary:       "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself"
 image:         "avatar.jpg"
 avatar:        "true"
-title:         "Nuclear Safety Inspector"
-contact_email: "homerjsimpson@youremailaddress.com"
-contact_info:  "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+title:         "Nimbus Inspector"
+contact_email: "codecomm@youremailaddress.com"
+contact_info:  "742 Evergreen Terrace, Smurf field | 555-7334 | codecomm@youremailaddress.com"
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:        "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_github_url:            "https://github.com/code-comm/jekyll-resume-template"
+  resume_twitter_url:           "http://twitter.com/code_comm"
+  # resume_dribbble_url:        "insert dribbble URL here"
+  resume_facebook_url:          "https://www.facebook.com/codecomm/"
+  # resume_linkedin_url:        "insert linkedin URL here"
   # resume_instagram_url:       "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://codecomm.org"
 resume_print_social_links:      true
