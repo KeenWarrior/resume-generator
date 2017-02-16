@@ -1,3 +1,5 @@
+# Lines starting with '#' in yml files are commented and will not affect data
+
 - skill: "Donut design"
   detail: "Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research"
 

@@ -1,3 +1,5 @@
+# Lines starting with '#' in yml files are commented and will not affect data
+
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true

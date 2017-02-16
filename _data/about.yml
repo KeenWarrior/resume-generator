@@ -1,3 +1,5 @@
+# Lines starting with '#' in yml files are commented and will not affect data
+
 name:          "Code Comm"
 summary:       "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself"
 image:         "avatar.jpg"

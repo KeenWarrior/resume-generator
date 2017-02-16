@@ -1,3 +1,5 @@
+# Lines starting with '#' in yml files are commented and will not affect data
+
 - school : "Springfield College"
   degree : "Associates Degree, Business Management"
   from : "1984"
