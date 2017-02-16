@@ -1,0 +1,20 @@
+name:          "Anuj Garg"
+summary:       "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself"
+image:         "avatar.jpg"
+avatar:        "true"
+title:         "Nuclear Safety Inspector"
+contact_email: "homerjsimpson@youremailaddress.com"
+contact_info:  "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+
+resume_social_links:
+  resume_github_url:            "https://github.com/jglovier/resume-template"
+  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:        "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:       "insert your Instagram URL here"
+  resume_website_url:           "http://joelglovier.com"
+resume_print_social_links:      true
